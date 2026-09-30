@@ -16,7 +16,7 @@
 
 无需安装依赖、启动服务器或注册账号。页面、字体回退、图标、图表和纸页生成都在本地运行，断网也可以完成实验。建议使用电脑，在观察过程中保持窗口大小和缩放比例不变。
 
-源码仓库：https://github.com/BNU-EngPsy-Fall26/ZhuangXin202411260030。使用仓库中的 MIT 许可证，见 [LICENSE](LICENSE)。
+源码仓库：[BNU-EngPsy-Fall26/ZhuangXin202411260030](https://github.com/BNU-EngPsy-Fall26/ZhuangXin202411260030)。使用仓库中的 MIT 许可证，见 [LICENSE](LICENSE)。
 
 ## 怎么玩
 
